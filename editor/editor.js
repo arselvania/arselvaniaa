@@ -3,7 +3,7 @@ var SWEETS = [];
 var SWEETS_CATEGORIES = [];
 var USERS = [];
 
-const API_ENDPOINT = "https://shop.panci.to/admin-api/"; // with "https://" and "/" at the end.
+const API_ENDPOINT = "https://arselvaniaa-b307fi4ti-arselvania-86c05561.vercel.app/"; // with "https://" and "/" at the end.
 
 // rendering tables
 function RenderGoodsTable() {

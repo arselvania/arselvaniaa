@@ -8,7 +8,7 @@ const USERLANGCODE = Telegram.WebApp.initDataUnsafe.user.language_code;
 const MIN_AMOUNT = 106.05;
 const MAX_AMOUNT = 1060503.58;
 
-const API_ENDPOINT = "https://shop.panci.to/api/"; // with "https://" and "/" at the end.
+const API_ENDPOINT = "https://arselvaniaa-b307fi4ti-arselvania-86c05561.vercel.app/"; // with "https://" and "/" at the end.
 
 const PAY = {
     "en": "Pay",

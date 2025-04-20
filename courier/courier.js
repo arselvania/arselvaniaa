@@ -1,4 +1,4 @@
-const API_ENDPOINT = "https://shop.panci.to/courier-api/"; // with "https://" and "/" at the end.
+const API_ENDPOINT = "https://arselvaniaa-b307fi4ti-arselvania-86c05561.vercel.app/"; // with "https://" and "/" at the end.
 const STATUSES = {
     1: "🆕",
     2: "🎒",
